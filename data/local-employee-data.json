@@ -1,361 +1,402 @@
-[{
-    "uid": "a5a26638",
-    "fullname": "Alethea Mathiasen",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Internship",
-    "email": "alethea@company.com",
-    "mobile": "(780)-588-7017",
-    "title": "Manager",
-    "hourly": 105
-  }, {
-    "uid": "7c2fabba",
-    "fullname": "Adriana Breckenridge",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Temporary",
-    "email": "adriana@company.com",
-    "mobile": "(780)-588-0207",
-    "title": "Full Stack Developer",
-    "hourly": 80
-  }, {
-    "uid": "6fd240ea",
-    "fullname": "Brande Vasilyevski",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Temporary",
-    "email": "brande@company.com",
-    "mobile": "(780)-588-0302",
-    "title": "Frontend Engineer",
-    "hourly": 90
-  }, {
-    "uid": "ae571839",
-    "fullname": "Prescott Purchon",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Contract",
-    "email": "prescott@company.com",
-    "mobile": "(780)-588-8523",
-    "title": "UI/UX Designer",
-    "hourly": 75
-  }, {
-    "uid": "24f14498",
-    "fullname": "Darice Colville",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Remote",
-    "email": "darice@company.com",
-    "mobile": "(780)-588-5743",
-    "title": "Technical Writer",
-    "hourly": 125
-  }, {
-    "uid": "9e627f32",
-    "fullname": "Cal Antunez",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Part-time",
-    "email": "cal@company.com",
-    "mobile": "(780)-588-0595",
-    "title": "Backend Engineer",
-    "hourly": 100
-  }, {
-    "uid": "00b9d824",
-    "fullname": "Paulita Rowson",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Temporary",
-    "email": "paulita@company.com",
-    "mobile": "(780)-588-9073",
-    "title": "UI/UX Designer",
-    "hourly": 75
-  }, {
-    "uid": "a904b31b",
-    "fullname": "Inness Deboy",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Contract",
-    "email": "inness@company.com",
-    "mobile": "(780)-588-6790",
-    "title": "Technical Writer",
-    "hourly": 90
-  }, {
-    "uid": "6b3c40ae",
-    "fullname": "Bernette Fidilis",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Consultant",
-    "email": "bernette@company.com",
-    "mobile": "(780)-588-0070",
-    "title": "DevOps",
-    "hourly": 60
-  }, {
-    "uid": "ae1df881",
-    "fullname": "Gregg Antonio",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Remote",
-    "email": "gregg@company.com",
-    "mobile": "(780)-588-6470",
-    "title": "UI/UX Designer",
-    "hourly": 120
-  }, {
-    "uid": "325b853d",
-    "fullname": "Myrah Maruszewski",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Full-time",
-    "email": "myrah@company.com",
-    "mobile": "(780)-588-4115",
-    "title": "DevOps",
-    "hourly": 75
-  }, {
-    "uid": "e341f41e",
-    "fullname": "Gerik Rowswell",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Part-time",
-    "email": "gerik@company.com",
-    "mobile": "(780)-588-1798",
-    "title": "Full Stack Developer",
-    "hourly": 125
-  }, {
-    "uid": "b7f82aa9",
-    "fullname": "Wyatt Marcq",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Part-time",
-    "email": "wyatt@company.com",
-    "mobile": "(780)-588-2393",
-    "title": "Technical Writer",
-    "hourly": 115
-  }, {
-    "uid": "98626bac",
-    "fullname": "Conny Flode",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Consultant",
-    "email": "conny@company.com",
-    "mobile": "(780)-588-9055",
-    "title": "Full Stack Developer",
-    "hourly": 130
-  }, {
-    "uid": "1bfa2407",
-    "fullname": "Monti Domanek",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Remote",
-    "email": "monti@company.com",
-    "mobile": "(780)-588-5029",
-    "title": "Technical Writer",
-    "hourly": 100
-  }, {
-    "uid": "b53897ae",
-    "fullname": "Jordan Plaice",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Full-time",
-    "email": "jordan@company.com",
-    "mobile": "(780)-588-3556",
-    "title": "Backend Engineer",
-    "hourly": 55
-  }, {
-    "uid": "78696fcb",
-    "fullname": "Blondell Ritchley",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Internship",
-    "email": "blondell@company.com",
-    "mobile": "(780)-588-4160",
-    "title": "DevOps",
-    "hourly": 110
-  }, {
-    "uid": "04e90ab5",
-    "fullname": "Lucius Spitaro",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Contract",
-    "email": "lucius@company.com",
-    "mobile": "(780)-588-9781",
-    "title": "Technical Writer",
-    "hourly": 120
-  }, {
-    "uid": "944a0f5d",
-    "fullname": "Araldo Slark",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Full-time",
-    "email": "araldo@company.com",
-    "mobile": "(780)-588-0597",
-    "title": "Technical Writer",
-    "hourly": 105
-  }, {
-    "uid": "9976e70c",
-    "fullname": "Von Slixby",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Temporary",
-    "email": "von@company.com",
-    "mobile": "(780)-588-9516",
-    "title": "Frontend Engineer",
-    "hourly": 125
-  }, {
-    "uid": "9b7f0732",
-    "fullname": "Philip McCullagh",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Full-time",
-    "email": "philip@company.com",
-    "mobile": "(780)-588-7363",
-    "title": "Frontend Engineer",
-    "hourly": 60
-  }, {
-    "uid": "018e9c73",
-    "fullname": "Valentine Goodluck",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Internship",
-    "email": "valentine@company.com",
-    "mobile": "(780)-588-1910",
-    "title": "Technical Writer",
-    "hourly": 105
-  }, {
-    "uid": "89d1c036",
-    "fullname": "Cherry Bothie",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Internship",
-    "email": "cherry@company.com",
-    "mobile": "(780)-588-4578",
-    "title": "Technical Writer",
-    "hourly": 75
-  }, {
-    "uid": "6252e399",
-    "fullname": "Kat Hellwich",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Contract",
-    "email": "kat@company.com",
-    "mobile": "(780)-588-7734",
-    "title": "Backend Engineer",
-    "hourly": 110
-  }, {
-    "uid": "4f4e86e3",
-    "fullname": "Kyle Clewer",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Consultant",
-    "email": "kyle@company.com",
-    "mobile": "(780)-588-5405",
-    "title": "UI/UX Designer",
-    "hourly": 75
-  }, {
-    "uid": "bf68f9d0",
-    "fullname": "Leslie Mathys",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Consultant",
-    "email": "leslie@company.com",
-    "mobile": "(780)-588-1320",
-    "title": "Frontend Engineer",
-    "hourly": 110
-  }, {
-    "uid": "c36c0081",
-    "fullname": "Bridgette Brandham",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Internship",
-    "email": "bridgette@company.com",
-    "mobile": "(780)-588-5071",
-    "title": "Backend Engineer",
-    "hourly": 105
-  }, {
-    "uid": "11ff5ca2",
-    "fullname": "Maegan Lias",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Part-time",
-    "email": "maegan@company.com",
-    "mobile": "(780)-588-5139",
-    "title": "Technical Writer",
-    "hourly": 90
-  }, {
-    "uid": "fc025019",
-    "fullname": "Milka Prestney",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Contract",
-    "email": "milka@company.com",
-    "mobile": "(780)-588-5301",
-    "title": "UI/UX Designer",
-    "hourly": 100
-  }, {
-    "uid": "b14e28f7",
-    "fullname": "Sharia Skein",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Remote",
-    "email": "sharia@company.com",
-    "mobile": "(780)-588-1216",
-    "title": "Manager",
-    "hourly": 65
-  }, {
-    "uid": "f6a37c6e",
-    "fullname": "Cody Hilary",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Part-time",
-    "email": "cody@company.com",
-    "mobile": "(780)-588-8119",
-    "title": "Full Stack Developer",
-    "hourly": 105
-  }, {
-    "uid": "f292e2b9",
-    "fullname": "Layney Boggis",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Full-time",
-    "email": "layney@company.com",
-    "mobile": "(780)-588-9935",
-    "title": "UI/UX Designer",
-    "hourly": 70
-  }, {
-    "uid": "57017043",
-    "fullname": "Britt Faichney",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Part-time",
-    "email": "britt@company.com",
-    "mobile": "(780)-588-9791",
-    "title": "DevOps",
-    "hourly": 120
-  }, {
-    "uid": "39c90401",
-    "fullname": "Eugenia Moncreiffe",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Internship",
-    "email": "eugenia@company.com",
-    "mobile": "(780)-588-5642",
-    "title": "Technical Writer",
-    "hourly": 65
-  }, {
-    "uid": "2b75fa9e",
-    "fullname": "Aguistin Grassot",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Contract",
-    "email": "aguistin@company.com",
-    "mobile": "(780)-588-8085",
-    "title": "Full Stack Developer",
-    "hourly": 60
-  }, {
-    "uid": "02301ccc",
-    "fullname": "Arluene Geraudy",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Part-time",
-    "email": "arluene@company.com",
-    "mobile": "(780)-588-2408",
-    "title": "Frontend Engineer",
-    "hourly": 95
-  }, {
-    "uid": "94083d70",
-    "fullname": "Ailbert Oland",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Part-time",
-    "email": "ailbert@company.com",
-    "mobile": "(780)-588-7938",
-    "title": "Technical Writer",
-    "hourly": 100
-  }, {
-    "uid": "910084bf",
-    "fullname": "Lynelle Ricks",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Temporary",
-    "email": "lynelle@company.com",
-    "mobile": "(780)-588-3608",
-    "title": "Backend Engineer",
-    "hourly": 85
-  }, {
-    "uid": "d29f4097",
-    "fullname": "Leelah O'Hagirtie",
-    "profileImage": "employees/f/employee-id",
-    "employmentType": "Remote",
-    "email": "leelah@company.com",
-    "mobile": "(780)-588-1644",
-    "title": "Technical Writer",
-    "hourly": 65
-  }, {
-    "uid": "8be3b42d",
-    "fullname": "Hamilton Klulik",
-    "profileImage": "employees/m/employee-id",
-    "employmentType": "Consultant",
-    "email": "hamilton@company.com",
-    "mobile": "(780)-588-3933",
-    "title": "Technical Writer",
-    "hourly": 125
-  }]
+[
+  {
+      "uid": "20e9c291",
+      "fullname": "Paton Staynes",
+      "profileImage": "employees/m/employee-id-01.jpg",
+      "employmentType": "Part-time",
+      "email": "paton@company.com",
+      "mobile": "(780)-588-9448",
+      "position": "Project Manager",
+      "hourly": 80
+  },
+  {
+      "uid": "d79b5cd5",
+      "fullname": "Hughie Feasby",
+      "profileImage": "employees/m/employee-id-02.jpg",
+      "employmentType": "Internship",
+      "email": "hughie@company.com",
+      "mobile": "(780)-588-1093",
+      "position": "Marketing Analyst",
+      "hourly": 115
+  },
+  {
+      "uid": "7640f37c",
+      "fullname": "Rolfe Anstis",
+      "profileImage": "employees/m/employee-id-03.jpg",
+      "employmentType": "Remote",
+      "email": "rolfe@company.com",
+      "mobile": "(780)-588-4416",
+      "position": "Digital Advertising Specialist",
+      "hourly": 60
+  },
+  {
+      "uid": "281be7d5",
+      "fullname": "Pace Stratiff",
+      "profileImage": "employees/m/employee-id-04.jpg",
+      "employmentType": "Full-time",
+      "email": "pace@company.com",
+      "mobile": "(780)-588-6793",
+      "position": "Content Writer",
+      "hourly": 60
+  },
+  {
+      "uid": "3e30ec19",
+      "fullname": "Clementina Nazer",
+      "profileImage": "employees/f/employee-id-01.jpg",
+      "employmentType": "Temporary",
+      "email": "clementina@company.com",
+      "mobile": "(780)-588-3577",
+      "position": "SEO Specialist",
+      "hourly": 65
+  },
+  {
+      "uid": "3da43546",
+      "fullname": "Coleman Piff",
+      "profileImage": "employees/m/employee-id-05.jpg",
+      "employmentType": "Part-time",
+      "email": "coleman@company.com",
+      "mobile": "(780)-588-4058",
+      "position": "Video Editor",
+      "hourly": 60
+  },
+  {
+      "uid": "5d890838",
+      "fullname": "Kinnie Deluze",
+      "profileImage": "employees/m/employee-id-06.jpg",
+      "employmentType": "Part-time",
+      "email": "kinnie@company.com",
+      "mobile": "(780)-588-6132",
+      "position": "Content Writer",
+      "hourly": 100
+  },
+  {
+      "uid": "3b933d40",
+      "fullname": "Grantham Holby",
+      "profileImage": "employees/m/employee-id-07.jpg",
+      "employmentType": "Remote",
+      "email": "grantham@company.com",
+      "mobile": "(780)-588-3593",
+      "position": "Graphic Designer",
+      "hourly": 110
+  },
+  {
+      "uid": "0235b53b",
+      "fullname": "Caterina Colquete",
+      "profileImage": "employees/f/employee-id-02.jpg",
+      "employmentType": "Internship",
+      "email": "caterina@company.com",
+      "mobile": "(780)-588-8102",
+      "position": "Social Media Manager",
+      "hourly": 60
+  },
+  {
+      "uid": "c9a2e2a3",
+      "fullname": "Linette Wathen",
+      "profileImage": "employees/f/employee-id-03.jpg",
+      "employmentType": "Full-time",
+      "email": "linette@company.com",
+      "mobile": "(780)-588-3235",
+      "position": "Marketing Analyst",
+      "hourly": 75
+  },
+  {
+      "uid": "9460ca3a",
+      "fullname": "Florinda Meco",
+      "profileImage": "employees/f/employee-id-04.jpg",
+      "employmentType": "Contract",
+      "email": "florinda@company.com",
+      "mobile": "(780)-588-3903",
+      "position": "Graphic Designer",
+      "hourly": 95
+  },
+  {
+      "uid": "365066a0",
+      "fullname": "Ross Lippett",
+      "profileImage": "employees/m/employee-id-08.jpg",
+      "employmentType": "Temporary",
+      "email": "ross@company.com",
+      "mobile": "(780)-588-2900",
+      "position": "Marketing Analyst",
+      "hourly": 85
+  },
+  {
+      "uid": "da42a717",
+      "fullname": "Garrett McKeady",
+      "profileImage": "employees/m/employee-id-09.jpg",
+      "employmentType": "Remote",
+      "email": "garrett@company.com",
+      "mobile": "(780)-588-2015",
+      "position": "Project Manager",
+      "hourly": 110
+  },
+  {
+      "uid": "2e3c9a98",
+      "fullname": "Marlon Van den Broek",
+      "profileImage": "employees/m/employee-id-010.jpg",
+      "employmentType": "Contract",
+      "email": "marlon@company.com",
+      "mobile": "(780)-588-2187",
+      "position": "Social Media Manager",
+      "hourly": 130
+  },
+  {
+      "uid": "367ed2dd",
+      "fullname": "Marcellus Towe",
+      "profileImage": "employees/m/employee-id-011.jpg",
+      "employmentType": "Internship",
+      "email": "marcellus@company.com",
+      "mobile": "(780)-588-2472",
+      "position": "Digital Advertising Specialist",
+      "hourly": 115
+  },
+  {
+      "uid": "96c945fc",
+      "fullname": "Ulrikaumeko Heatherington",
+      "profileImage": "employees/f/employee-id-05.jpg",
+      "employmentType": "Temporary",
+      "email": "ulrikaumeko@company.com",
+      "mobile": "(780)-588-2190",
+      "position": "Graphic Designer",
+      "hourly": 100
+  },
+  {
+      "uid": "e2ebde37",
+      "fullname": "Millisent Dunnet",
+      "profileImage": "employees/f/employee-id-06.jpg",
+      "employmentType": "Part-time",
+      "email": "millisent@company.com",
+      "mobile": "(780)-588-8662",
+      "position": "Video Editor",
+      "hourly": 55
+  },
+  {
+      "uid": "4238e9c8",
+      "fullname": "Shela Babar",
+      "profileImage": "employees/f/employee-id-07.jpg",
+      "employmentType": "Full-time",
+      "email": "shela@company.com",
+      "mobile": "(780)-588-1530",
+      "position": "Video Editor",
+      "hourly": 105
+  },
+  {
+      "uid": "ded02790",
+      "fullname": "Elise Chavez",
+      "profileImage": "employees/f/employee-id-08.jpg",
+      "employmentType": "Internship",
+      "email": "elise@company.com",
+      "mobile": "(780)-588-0670",
+      "position": "SEO Specialist",
+      "hourly": 95
+  },
+  {
+      "uid": "d1306908",
+      "fullname": "Hilton Karchowski",
+      "profileImage": "employees/m/employee-id-012.jpg",
+      "employmentType": "Consultant",
+      "email": "hilton@company.com",
+      "mobile": "(780)-588-0565",
+      "position": "Project Manager",
+      "hourly": 110
+  },
+  {
+      "uid": "ec185e0d",
+      "fullname": "Ole McBrady",
+      "profileImage": "employees/m/employee-id-013.jpg",
+      "employmentType": "Temporary",
+      "email": "ole@company.com",
+      "mobile": "(780)-588-5078",
+      "position": "Graphic Designer",
+      "hourly": 105
+  },
+  {
+      "uid": "27a02df8",
+      "fullname": "Taryn Laingmaid",
+      "profileImage": "employees/f/employee-id-09.jpg",
+      "employmentType": "Temporary",
+      "email": "taryn@company.com",
+      "mobile": "(780)-588-0113",
+      "position": "Graphic Designer",
+      "hourly": 65
+  },
+  {
+      "uid": "6fbe962c",
+      "fullname": "Glendon Gohn",
+      "profileImage": "employees/m/employee-id-014.jpg",
+      "employmentType": "Contract",
+      "email": "glendon@company.com",
+      "mobile": "(780)-588-4897",
+      "position": "Project Manager",
+      "hourly": 80
+  },
+  {
+      "uid": "4ebada7b",
+      "fullname": "Zebulon Wimbury",
+      "profileImage": "employees/m/employee-id-015.jpg",
+      "employmentType": "Full-time",
+      "email": "zebulon@company.com",
+      "mobile": "(780)-588-6055",
+      "position": "Social Media Manager",
+      "hourly": 115
+  },
+  {
+      "uid": "0ea59ae5",
+      "fullname": "Giffer Bogies",
+      "profileImage": "employees/m/employee-id-016.jpg",
+      "employmentType": "Part-time",
+      "email": "giffer@company.com",
+      "mobile": "(780)-588-2452",
+      "position": "Video Editor",
+      "hourly": 65
+  },
+  {
+      "uid": "99c64c5e",
+      "fullname": "Gerek Stiff",
+      "profileImage": "employees/m/employee-id-017.jpg",
+      "employmentType": "Consultant",
+      "email": "gerek@company.com",
+      "mobile": "(780)-588-5159",
+      "position": "Data Analyst",
+      "hourly": 120
+  },
+  {
+      "uid": "45e96d8b",
+      "fullname": "Beilul Grainger",
+      "profileImage": "employees/f/employee-id-010.jpg",
+      "employmentType": "Internship",
+      "email": "beilul@company.com",
+      "mobile": "(780)-588-0510",
+      "position": "Marketing Analyst",
+      "hourly": 100
+  },
+  {
+      "uid": "15bbb75c",
+      "fullname": "Gae Vogel",
+      "profileImage": "employees/f/employee-id-011.jpg",
+      "employmentType": "Contract",
+      "email": "gae@company.com",
+      "mobile": "(780)-588-5880",
+      "position": "Digital Advertising Specialist",
+      "hourly": 70
+  },
+  {
+      "uid": "afd3fc00",
+      "fullname": "Lemuel Monketon",
+      "profileImage": "employees/m/employee-id-018.jpg",
+      "employmentType": "Full-time",
+      "email": "lemuel@company.com",
+      "mobile": "(780)-588-1505",
+      "position": "Video Editor",
+      "hourly": 95
+  },
+  {
+      "uid": "770c587e",
+      "fullname": "Cynthy Benterman",
+      "profileImage": "employees/f/employee-id-012.jpg",
+      "employmentType": "Contract",
+      "email": "cynthy@company.com",
+      "mobile": "(780)-588-9121",
+      "position": "Video Editor",
+      "hourly": 70
+  },
+  {
+      "uid": "a991fc7b",
+      "fullname": "Murdock Tathacott",
+      "profileImage": "employees/m/employee-id-019.jpg",
+      "employmentType": "Full-time",
+      "email": "murdock@company.com",
+      "mobile": "(780)-588-9672",
+      "position": "Social Media Manager",
+      "hourly": 130
+  },
+  {
+      "uid": "f43f5420",
+      "fullname": "Aaren Restorick",
+      "profileImage": "employees/f/employee-id-013.jpg",
+      "employmentType": "Part-time",
+      "email": "aaren@company.com",
+      "mobile": "(780)-588-7334",
+      "position": "Content Writer",
+      "hourly": 80
+  },
+  {
+      "uid": "230a4a05",
+      "fullname": "Hayden Stickells",
+      "profileImage": "employees/m/employee-id-020.jpg",
+      "employmentType": "Remote",
+      "email": "hayden@company.com",
+      "mobile": "(780)-588-2758",
+      "position": "Content Writer",
+      "hourly": 65
+  },
+  {
+      "uid": "95e8bf15",
+      "fullname": "D'arcy Vinton",
+      "profileImage": "employees/m/employee-id-021.jpg",
+      "employmentType": "Part-time",
+      "email": "d'arcy@company.com",
+      "mobile": "(780)-588-1797",
+      "position": "Marketing Analyst",
+      "hourly": 120
+  },
+  {
+      "uid": "f30195c4",
+      "fullname": "Valaria Gaunter",
+      "profileImage": "employees/f/employee-id-014.jpg",
+      "employmentType": "Consultant",
+      "email": "valaria@company.com",
+      "mobile": "(780)-588-8509",
+      "position": "Content Writer",
+      "hourly": 85
+  },
+  {
+      "uid": "43152d13",
+      "fullname": "Conni Alesin",
+      "profileImage": "employees/f/employee-id-015.jpg",
+      "employmentType": "Contract",
+      "email": "conni@company.com",
+      "mobile": "(780)-588-0678",
+      "position": "Digital Advertising Specialist",
+      "hourly": 130
+  },
+  {
+      "uid": "d3560f78",
+      "fullname": "Sherry Crain",
+      "profileImage": "employees/f/employee-id-016.jpg",
+      "employmentType": "Internship",
+      "email": "sherry@company.com",
+      "mobile": "(780)-588-7782",
+      "position": "Digital Advertising Specialist",
+      "hourly": 65
+  },
+  {
+      "uid": "359a25e3",
+      "fullname": "Deeanne Fillimore",
+      "profileImage": "employees/f/employee-id-017.jpg",
+      "employmentType": "Part-time",
+      "email": "deeanne@company.com",
+      "mobile": "(780)-588-1526",
+      "position": "Social Media Manager",
+      "hourly": 85
+  },
+  {
+      "uid": "e3b6d1ce",
+      "fullname": "Bale Murphy",
+      "profileImage": "employees/m/employee-id-022.jpg",
+      "employmentType": "Temporary",
+      "email": "bale@company.com",
+      "mobile": "(780)-588-6707",
+      "position": "Web Developer",
+      "hourly": 100
+  },
+  {
+      "uid": "098ad5c5",
+      "fullname": "Sara-ann Stopford",
+      "profileImage": "employees/f/employee-id-018.jpg",
+      "employmentType": "Contract",
+      "email": "sara-ann@company.com",
+      "mobile": "(780)-588-0487",
+      "position": "Social Media Manager",
+      "hourly": 125
+  }
+]
