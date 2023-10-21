@@ -1,4 +1,4 @@
-# Optimizing SVG
+# How To Generate Static Pages
 
 
 ## Sourcing SVG Icons & Artwork
