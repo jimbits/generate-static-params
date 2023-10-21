@@ -1,12 +1,12 @@
 import {readFile } from "fs/promises";
 import { join } from "path";
-import * as url from 'url';
-const __filename = url.fileURLToPath(import.meta.url);
-const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+import {fileURLToPath}from 'url';
+const __filename = fileURLToPath(import.meta.url);
 
 
+// const filePath = join(__dirname, "/data/local-employee-data.json")
 
-const filePath = join(__dirname, "/data/local-employee-data.json")
+const filePath = __filename
 
-return filePath
+export {filePath}
  
