@@ -13,9 +13,9 @@ export default async function Home() {
         <header>
           <h2 className="text-4xl mt-12">Display All Employees From Local File</h2>
         </header>
-         <ul>
+     
           {employees.map(employee => <Employee  {...employee}/>)}
-         </ul>
+     
         </section>
     </main>
     </>

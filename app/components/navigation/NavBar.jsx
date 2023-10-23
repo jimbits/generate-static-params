@@ -6,7 +6,7 @@ import {IoLogoGithub} from 'react-icons/io5'
         <nav className="py-4 px-4  ">
             <ul className="flex justify-between gap-x-8 items-center">
                 <li><Link className="text-rose-600 font-medium" href="/">
-                          <figure className="flex items-center text-red-500 gap-1">
+                          <figure className="flex items-center text-red-800 gap-1">
                             <IoBonfire className="w-6 h-6  "/>
                             <figcaption className="text-sm">pixel diviant</figcaption>
                           </figure>

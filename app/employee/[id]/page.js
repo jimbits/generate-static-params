@@ -11,7 +11,7 @@ async function getEmployee (params){
  async function Employee ({params}) {
 
     const employee = await getEmployee(params)
-    console.log(employee)
+ 
    
   return (
     <>
